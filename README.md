@@ -2,7 +2,7 @@
 
 <a href="https://datastudio.google.com/reporting/1311a992-20bb-4d8d-abb5-839e75a2ef04">Dashboard in Google Data Studio</a>
 
-<a href="https://docs.google.com/spreadsheets/d/1tmJglsLmb90C0JMNA9EaKHq_0lnsSJMLap1i_muuwtU/edit#gid=2011282344">Descriptive Analysis</a>
+<a href="https://docs.google.com/spreadsheets/d/1tmJglsLmb90C0JMNA9EaKHq_0lnsSJMLap1i_muuwtU/edit#gid=2011282344">Exploratory Analysis</a>
 
 ***
 
@@ -18,6 +18,8 @@ The ecommerce (UK Merch) is a young company that sells wholesale clothing with a
 
 This dataset contains 6 columns with the following informations: recipe number, recipe date, client id, country, quantity and value.
 
+You can find it <a href="https://www.kaggle.com/datasets/datacertlaboratoria/projeto-3-segmentao-de-clientes-no-ecommerce">here</a>.
+
 ***
 
 # Data pre-processing
@@ -31,4 +33,7 @@ I've created the clean-base and added the columns year-month considering the coh
 
 ***
 
-#
+# Exploratory Analysis
+
+At this point, I did an exploratory analysis to do the sales metrics analysis.
+
