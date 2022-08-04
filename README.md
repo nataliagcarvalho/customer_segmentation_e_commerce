@@ -53,7 +53,7 @@ Another important analyze was the revenue of each country. As we could already s
 
 ![Captura de Tela (931)](https://user-images.githubusercontent.com/106877571/177346868-c3c6904e-829a-40d6-bbbc-60f0a0201f90.png)
 
-Something that is also important for the business intelligence is to understand if the company is achieving new clients. In order to find out this, I've counted the new clients per month and extrapolated these numbers to a graphic:
+Something that is also important for the business intelligence is to understand if the company is achieving new clients. In order to find out this, I've counted the new clients per month and extrapolated these numbers to a chart:
 
 ![Captura de Tela (932)](https://user-images.githubusercontent.com/106877571/177348712-d0f39558-cca8-42a9-b2af-63451378628a.png)
 
