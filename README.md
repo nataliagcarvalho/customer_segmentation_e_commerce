@@ -40,7 +40,7 @@ At this point, I did an exploratory analysis to do the sales metrics analysis.
 ![Captura de Tela (928)](https://user-images.githubusercontent.com/106877571/177341128-da81c112-c77c-481d-aab8-001d8738db82.png)
 
 Analyzing the number of emited recipes, we can see that the main client is in UK, which represents 89,82% of emited recipes.
-Once we compare the emited recipes in UK and ohter countries in a line graphic during the period of 1 year, we can take other great insight.
+Once we compare the emited recipes in UK and ohter countries in a line chart during the period of 1 year, we can take other great insight.
 
 ![Captura de Tela (929)](https://user-images.githubusercontent.com/106877571/177341812-28fcf8ab-29a0-48ab-90e0-260c4cc3d6ea.png)
 
@@ -49,7 +49,7 @@ In order to better understand this number, I took another look at the dataset an
 
 ![Captura de Tela (930)](https://user-images.githubusercontent.com/106877571/177343652-40d216de-264b-4df5-bf78-8b298bb8759b.png)
 
-Another important analyze was the revenue of each country. As we could already see, UK is the country buyer leader. However, we see that the medium ticket is not the highest. While Netherlands, Singapore, Australia, EIRE and Switzerland have the hightest medium ticket, which means that they are spending more per purchase. And through this analysis, I've built this graphic where we can better see the medium ticker per country, where we have Netherlands with the hightest one:
+Another important analyze was the revenue of each country. As we could already see, UK is the country buyer leader. However, we see that the medium ticket is not the highest. While Netherlands, Singapore, Australia, EIRE and Switzerland have the hightest medium ticket, which means that they are spending more per purchase. And through this analysis, I've built this chart where we can better see the medium ticker per country, where we have Netherlands with the hightest one:
 
 ![Captura de Tela (931)](https://user-images.githubusercontent.com/106877571/177346868-c3c6904e-829a-40d6-bbbc-60f0a0201f90.png)
 
