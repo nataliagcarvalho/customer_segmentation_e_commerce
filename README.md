@@ -27,8 +27,9 @@ You can find it <a href="https://www.kaggle.com/datasets/datacertlaboratoria/pro
 This dataset doesn't have good quality. It's full of duplicated and empty data as also negative values.
 In order to achieve better quality, I have deleted all the duplicated data in google sheets.
 The next step was to do a query to remove all the empty data and negative value: 
-   =QUERY('base-de-dados'!$A:$F, "SELECT * WHERE C IS NOT NULL AND F >= 0  ")
-
+```
+=QUERY('base-de-dados'!$A:$F, "SELECT * WHERE C IS NOT NULL AND F >= 0  ")
+```
 I've created the clean-base and added the columns year-month considering the cohort and also a column to identify if the client belongs to UK or not.
 
 ***
