@@ -2,7 +2,7 @@
 
 <a href="https://datastudio.google.com/reporting/1311a992-20bb-4d8d-abb5-839e75a2ef04">Dashboard in Google Data Studio</a>
 
-<a href="https://docs.google.com/spreadsheets/d/1tmJglsLmb90C0JMNA9EaKHq_0lnsSJMLap1i_muuwtU/edit#gid=2011282344">Exploratory Analysis</a>
+<a href="https://docs.google.com/spreadsheets/d/1tmJglsLmb90C0JMNA9EaKHq_0lnsSJMLap1i_muuwtU/edit#gid=2011282344">Exploratory Analysis in Google Sheets</a>
 
 ***
 
